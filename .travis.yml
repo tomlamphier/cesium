@@ -10,7 +10,7 @@ script:
 - make deploy
 branches:
   only:
-  - master
+  - main
 env:
   global:
   - secure: NZ05IoH96x5MFzRvYz0jIx3+hz0YNRVWr1kIo6MsFQzlYafTUENdI77OrEyMYckjATl9G+mwNTemjdup36ChBJwyXN4tevXBPJbHhQhp8ztt1n3UIFRKgEIopgtgAxVOgBhbp6yK0CmP7dxWUQX5DsKQ/GDh1LiCeyjDToy5eFaUi4aznbDrW5bEWIKS+6m/cqAOOGT8Kv+siLCwHknLs7Xt9GuEE/oKpi+HKp4vHdGBN8h9Dwvz9OWG4oj+3LGLna8XulZVHi3k5c8vMNxPlfb4zoqGoIutoH2KOvmL02GhDr7R3SFQHQQk7Osava3XBOysqN2i2cGxv2NDyb7oU2BlIdPaoqcU7U30tkydusoDiAmRye10sADXWObsTVg20nJ3Cv8x9AcsQ3DzUlll6ETtdIRf6kia+auCGf4If/I42lTX4+hkLD/im7T24XHo5jcxYxTELTysNO+kRp6rQyK1+SVU5+lA17u+pR+zZ3/jWLcgTMAWByLsZgA9DAhMqMsWL/uJnrt6xP0pKejaGaTC7qjoCLgR6BFzOEEuJ914ILO6mGO0RQN6sQUWtRwM5UhMu1Kvt1L+ruwhT/4JNbRTCmtavM7a4n9jJqS+3VmASWcUZQX1CNd6FbCgjeMqw+gHygJxKw1/S34qx+D0gRmtS9QsUlFmJg64HgtZD/8=
