@@ -1,0 +1,4 @@
+baseURL = "https://www.hugo-notebook.com/cesium"
+languageCode = "en-us"
+title = "Kubernetes and Docker Notebook"
+theme = "book"
